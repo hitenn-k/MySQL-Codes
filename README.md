@@ -12,13 +12,16 @@ It’s more than just code — it’s a **step‑by‑step journey** through SQL
 - ✅ Organized into sections with explanations and comments.  
 - ✅ Perfect for **students, interview prep, and portfolio building**.  
 
+
 ---
 
-## 📂 Table of Contents
-1. 🎥 [Basic Selection](#basic-selection)  
-2. 🔍 [Filtering Data](#filtering-data)  
-3. 📊 [Aggregations](#aggregations)  
-4. 📈 [Ordering & Limiting](#ordering--limiting)  
-5. 🧮 [Grouping & Aggregates](#grouping--aggregates)  
-6. 🔗 [Joins & Calculations](#joins--calculations)  
-7. 🚀 [Advanced Queries](#advanced-queries
+## 🌟 Topics Covered
+
+- 🟦 **Basic Queries** → SELECT, WHERE, ORDER BY, LIMIT  
+- 🟩 **Joins** → INNER, LEFT, RIGHT, FULL (workaround), EXCLUSIVE  
+- 🟨 **Subqueries & CTEs** → Nested queries, correlated subqueries, common table expressions  
+- 🟧 **Aggregations** → GROUP BY, HAVING, COUNT, SUM, AVG  
+- 🟥 **Window Functions** → ROW_NUMBER(), RANK()  
+- 🟫 **Data Definition** → CREATE, ALTER, DROP  
+- 🟩 **Performance** → Query optimization tips, safe mode, benchmarking  
+- 🟨 **Utilities** → Export/auto‑save queries, handling NULLs, string/date functions  
